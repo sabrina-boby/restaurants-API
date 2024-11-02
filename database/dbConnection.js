@@ -12,3 +12,5 @@ export const dbConnection = () => {
       console.log(`Boby Some error occured while connecting to database ${err}`);
     });
 };
+
+
